@@ -1,7 +1,7 @@
 {
-  "name": "TFT Trend",
-  "short_name": "TFT Trend",
-  "description": "Meta TFT: đội hình, tướng, trang bị, lõi thăng tiến",
+  "name": "Meta Bubble",
+  "short_name": "Meta Bubble",
+  "description": "Bảng tra meta: đội hình, tướng, trang bị, lõi thăng tiến",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
